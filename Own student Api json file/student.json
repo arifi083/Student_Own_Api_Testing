@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "arif",
+      "location": "dhaka",
+      "phone": "0938838378438",
+      "course": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "atif",
+      "location": "bogura",
+      "phone": "0938838378438",
+      "course": [
+        "python",
+        "selenium"
+      ]
+    },
+    {
+      "name": "atif",
+      "location": "bogura",
+      "phone": "0938838378438",
+      "course": [
+        "javascript",
+        "cypress"
+      ],
+      "id": 3
+    },
+    {
+      "name": "atif",
+      "location": "bogura",
+      "phone": "0938838378438",
+      "course": [
+        "javascript",
+        "cypress"
+      ],
+      "id": 4
+    }
+  ]
+}
